@@ -1,0 +1,39 @@
+[
+    {
+      "id": "B1256",
+      "cover": "https://i.ibb.co/bvFCLJR/2.png",
+      "title": "Secrets of the Enchanted Forest",
+      "author": "Emily Smith",
+      "author_img": "https://i.ibb.co/j8Xn0Dj/profile.png",
+      "reading_time": 7, 
+      "hashtags": ["Fantasy", "Adventure", "Magic"]
+    },
+    {
+      "id": "A7892",
+      "cover": "https://i.ibb.co/bvFCLJR/2.png",
+      "title": "The Mysterious Case of Detective Gray",
+      "author": "David Johnson",
+      "author_img": "https://i.ibb.co/j8Xn0Dj/profile.png",
+      "reading_time": 8,
+      "hashtags": ["Mystery", "Detective", "Suspense"]
+    },
+    {
+      "id": "C3412",
+      "cover": "https://i.ibb.co/bvFCLJR/2.png",
+      "title": "A Journey Through Time",
+      "author": "Sarah Anderson",
+      "author_img": "https://i.ibb.co/j8Xn0Dj/profile.png",
+      "reading_time": 9, 
+      "hashtags": ["ScienceFiction", "TimeTravel", "Adventure"]
+    },
+    {
+      "id": "D5678",
+      "cover": "https://i.ibb.co/bvFCLJR/2.png",
+      "title": "Cooking Delights: Culinary Adventures",
+      "author": "Michael Davis",
+      "author_img": "https://i.ibb.co/j8Xn0Dj/profile.png",
+      "reading_time": 6, 
+      "hashtags": ["Cookbook", "Culinary", "Recipes"]
+    }
+  ]
+  
