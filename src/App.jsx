@@ -17,9 +17,14 @@ function App() {
   };
 
   // handle mark as read button click
-
-  const handleMarkAsRead = (time) => {
+  const handleMarkAsRead = (time, id) => {
     setReadingTime(readingTime + time);
+
+    // remove the read blog from bookmark
+    const remainingBookmarks = bookMarks.filter(
+      (bookmark) => bookmark.id !== id
+    );
+    setBookMarks(remainingBookmarks);
   };
 
   return (

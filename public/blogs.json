@@ -6,7 +6,7 @@
       "author": "Emily Smith",
       "author_img": "https://i.ibb.co/tpQvPP3/boy1.png",
       "reading_time": 7, 
-      "hashtags": ["Fantasy", "Adventure"]
+      "hashtags": ["beginners", "programming"]
     },
     {
       "id": "A7892",
@@ -15,7 +15,7 @@
       "author": "David Johnson",
       "author_img": "https://i.ibb.co/Nn8TLMm/boy2.jpg",
       "reading_time": 8,
-      "hashtags": ["Mystery", "Detective"]
+      "hashtags": ["beginners", "programming"]
     },
     {
       "id": "C3412",
@@ -24,7 +24,7 @@
       "author": "Sarah Anderson",
       "author_img": "https://i.ibb.co/RzsHbyT/girl1.jpg",
       "reading_time": 9, 
-      "hashtags": ["ScienceFiction", "TimeTravel"]
+      "hashtags": ["beginners", "programming"]
     },
     {
       "id": "D5678",
@@ -33,7 +33,7 @@
       "author": "Michael Davis",
       "author_img": "https://i.ibb.co/T1VnRh7/girl2.jpg",
       "reading_time": 6, 
-      "hashtags": ["Cookbook", "Culinary"]
+      "hashtags": ["beginners", "programming"]
     }
   ]
   
